@@ -3,3 +3,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=30&letterSpacing=2px&pause=1000&color=48F726&background=27272700&width=1000&lines=Hello%2C+humans!+I'm+Henrique+Pereira.;+Data+analyst+with+a+passion+for+cybersecurity.)](https://git.io/typing-svg)
 
  ### skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp; ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
+
+<img width=100% height=100% alt="image" src="https://github.com/user-attachments/assets/a9424526-da24-4602-af42-76278a6316ff" />
